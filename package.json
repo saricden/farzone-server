@@ -1,0 +1,23 @@
+{
+  "name": "farzone-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saricden/farzone-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saricden/farzone-server/issues"
+  },
+  "homepage": "https://github.com/saricden/farzone-server#readme",
+  "dependencies": {
+    "peer": "^0.6.1"
+  }
+}
